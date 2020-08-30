@@ -25,14 +25,14 @@ header{
     font-family: serif;
     margin-top: 1vw;
     outline: none;
-    background-color: #e07f2b;
+    background-color: #3eb14c;
 }
 .topBtn:hover{
     color: white;
-    background-color: #e07f2b;
+    background-color: #6de02b;
 }
 .topBtn:active{
-    background-color: #ffa600;
+    background-color: #74ff17;
 }
 .logo{
     width: 5vw;
@@ -141,12 +141,19 @@ header p{
     left: 50%;
     width: 25vw;
     height: 5vw;
-    background-color: #e07f2b;
+    background-color: #3eb14c;
     color: white;
     outline: none;
     font-family: serif;
     font-weight: bold;
     font-size: 1.6vw;
+    cursor: pointer;
+}
+.ctaBtn:hover{
+    background-color: #6de02b;
+}
+.ctaBtn:active{
+    background-color: #74ff17;
 }
 
 
@@ -298,7 +305,7 @@ td{
     position: absolute;
     top: 69%;
     left: 29%;
-    background-color: #e07f2b;
+    background-color: #3eb14c;
     width: 23vw;
     font-family: serif;
     height: 7vw;
@@ -306,6 +313,13 @@ td{
     font-size: 2vw;
     color: rgb(255, 255, 255);
     font-weight: bold;
+cursor: pointer;
+}
+.finalBtn:hover{
+    background-color: #6de02b;
+}
+.finalBtn:active{
+    background-color: #74ff17;
 }
 
 .copy-w{
