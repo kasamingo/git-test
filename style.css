@@ -25,6 +25,7 @@ header{
     font-family: serif;
     margin-top: 1vw;
     outline: none;
+    cursor: pointer;
     background-color: #3eb14c;
 }
 .topBtn:hover{
